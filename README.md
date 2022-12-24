@@ -1,4 +1,4 @@
-# OneTime_Share
+# ML Project
 
 A basic Machine Learning project that uses the Boston Housing dataset to predict housing prices.
 Models tested in this project are Linear Regression, Decision Tree Regressor and Random Forest Regressor and their results were compared.
